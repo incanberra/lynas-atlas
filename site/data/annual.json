@@ -1,0 +1,67 @@
+[
+  {
+    "year": 2022,
+    "revenue": 920.014,
+    "ebitda": 601.193,
+    "npat": 540.824,
+    "reo_production": 15970.0,
+    "ndpr_production": 5880.0,
+    "reo_sales": 15263.0,
+    "basket_asp": 60.27,
+    "cost_of_sales": 348.4,
+    "operating_cash_flow": 460.072,
+    "source_id": "ar22"
+  },
+  {
+    "year": 2023,
+    "revenue": 739.279,
+    "ebitda": 377.685,
+    "npat": 310.666,
+    "reo_production": 16780.0,
+    "ndpr_production": 6142.0,
+    "reo_sales": 16014.0,
+    "basket_asp": 46.16,
+    "cost_of_sales": 399.9,
+    "operating_cash_flow": 386.754,
+    "source_id": "ar23"
+  },
+  {
+    "year": 2024,
+    "revenue": 463.285,
+    "ebitda": 132.132,
+    "npat": 84.514,
+    "reo_production": 10908.0,
+    "ndpr_production": 5655.0,
+    "reo_sales": 12158.0,
+    "basket_asp": 38.1,
+    "cost_of_sales": 330.6,
+    "operating_cash_flow": 34.964,
+    "source_id": "ar24"
+  },
+  {
+    "year": 2025,
+    "revenue": 556.512,
+    "ebitda": 101.186,
+    "npat": 7.99,
+    "reo_production": 10462.0,
+    "ndpr_production": 6558.0,
+    "reo_sales": 10970.0,
+    "basket_asp": 50.6,
+    "cost_of_sales": 426.7,
+    "operating_cash_flow": 104.167,
+    "source_id": "ar25"
+  },
+  {
+    "year": 2026,
+    "revenue": 977.945,
+    "ebitda": 386.038,
+    "npat": 222.352,
+    "reo_production": 13089.0,
+    "ndpr_production": 7260.0,
+    "reo_sales": 12122.0,
+    "basket_asp": 80.68,
+    "cost_of_sales": 585.5,
+    "operating_cash_flow": 318.81,
+    "source_id": "ar26"
+  }
+]

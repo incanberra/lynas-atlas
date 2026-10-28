@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="720pt" height="338.4pt" viewBox="0 0 720 338.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-28T03:44:28.621971</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 338.4 
+L 720 338.4 
+L 720 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 57.6 263.952 
+L 698.4 263.952 
+L 698.4 81.216 
+L 57.6 81.216 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Open Sans'; text-anchor: middle; fill: #323232" x="120.236525" y="281.550438" transform="rotate(-0 120.236525 281.550438)">2022</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Open Sans'; text-anchor: middle; fill: #323232" x="249.118262" y="281.550438" transform="rotate(-0 249.118262 281.550438)">2023</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Open Sans'; text-anchor: middle; fill: #323232" x="378" y="281.550438" transform="rotate(-0 378 281.550438)">2024</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Open Sans'; text-anchor: middle; fill: #323232" x="506.881738" y="281.550438" transform="rotate(-0 506.881738 281.550438)">2025</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Open Sans'; text-anchor: middle; fill: #323232" x="635.763475" y="281.550438" transform="rotate(-0 635.763475 281.550438)">2026</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6">
+      <path d="M 57.6 263.952 
+L 698.4 263.952 
+" clip-path="url(#p0a4a1911e2)" style="fill: none; stroke: #d6d6d6; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_7"/>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'Open Sans'; text-anchor: end; fill: #323232" x="47.6" y="267.751219" transform="rotate(-0 47.6 267.751219)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8">
+      <path d="M 57.6 224.226783 
+L 698.4 224.226783 
+" clip-path="url(#p0a4a1911e2)" style="fill: none; stroke: #d6d6d6; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_9"/>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'Open Sans'; text-anchor: end; fill: #323232" x="47.6" y="228.026001" transform="rotate(-0 47.6 228.026001)">250</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_10">
+      <path d="M 57.6 184.501565 
+L 698.4 184.501565 
+" clip-path="url(#p0a4a1911e2)" style="fill: none; stroke: #d6d6d6; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_11"/>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'Open Sans'; text-anchor: end; fill: #323232" x="47.6" y="188.300784" transform="rotate(-0 47.6 188.300784)">500</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_12">
+      <path d="M 57.6 144.776348 
+L 698.4 144.776348 
+" clip-path="url(#p0a4a1911e2)" style="fill: none; stroke: #d6d6d6; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_13"/>
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'Open Sans'; text-anchor: end; fill: #323232" x="47.6" y="148.575567" transform="rotate(-0 47.6 148.575567)">750</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_14">
+      <path d="M 57.6 105.05113 
+L 698.4 105.05113 
+" clip-path="url(#p0a4a1911e2)" style="fill: none; stroke: #d6d6d6; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_15"/>
+     <g id="text_10">
+      <text style="font-size: 10px; font-family: 'Open Sans'; text-anchor: end; fill: #323232" x="47.6" y="108.850349" transform="rotate(-0 47.6 108.850349)">1000</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 86.727273 263.952 
+L 153.745776 263.952 
+L 153.745776 117.760975 
+L 86.727273 117.760975 
+z
+" clip-path="url(#p0a4a1911e2)" style="fill: #a3926e"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 215.60901 263.952 
+L 282.627514 263.952 
+L 282.627514 146.479924 
+L 215.60901 146.479924 
+z
+" clip-path="url(#p0a4a1911e2)" style="fill: #a3926e"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 344.490748 263.952 
+L 411.509252 263.952 
+L 411.509252 190.335611 
+L 344.490748 190.335611 
+z
+" clip-path="url(#p0a4a1911e2)" style="fill: #a3926e"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 473.372486 263.952 
+L 540.39099 263.952 
+L 540.39099 175.521759 
+L 473.372486 175.521759 
+z
+" clip-path="url(#p0a4a1911e2)" style="fill: #a3926e"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 602.254224 263.952 
+L 669.272727 263.952 
+L 669.272727 108.555689 
+L 602.254224 108.555689 
+z
+" clip-path="url(#p0a4a1911e2)" style="fill: #003e46"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 57.6 263.952 
+L 698.4 263.952 
+" style="fill: none; stroke: #d6d6d6; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 600; font-size: 11px; font-family: 'Open Sans'; text-anchor: middle; fill: #323232" x="120.236525" y="112.993949" transform="rotate(-0 120.236525 112.993949)">920.0</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 600; font-size: 11px; font-family: 'Open Sans'; text-anchor: middle; fill: #323232" x="249.118262" y="141.712898" transform="rotate(-0 249.118262 141.712898)">739.3</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 600; font-size: 11px; font-family: 'Open Sans'; text-anchor: middle; fill: #323232" x="378" y="185.568585" transform="rotate(-0 378 185.568585)">463.3</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 600; font-size: 11px; font-family: 'Open Sans'; text-anchor: middle; fill: #323232" x="506.881738" y="170.754733" transform="rotate(-0 506.881738 170.754733)">556.5</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 600; font-size: 11px; font-family: 'Open Sans'; text-anchor: middle; fill: #323232" x="635.763475" y="103.788663" transform="rotate(-0 635.763475 103.788663)">977.9</text>
+   </g>
+  </g>
+  <g id="text_16">
+   <text style="font-weight: 700; font-size: 19px; font-family: 'Open Sans'; text-anchor: start; fill: #323232" x="57.6" y="30.456" transform="rotate(-0 57.6 30.456)">Revenue recovered above its FY2022 level</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 11px; font-family: 'Open Sans'; text-anchor: start; fill: #323232" x="57.6" y="57.528" transform="rotate(-0 57.6 57.528)">Lynas annual sales revenue, A$ million • years ending 30 June</text>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 9px; font-family: 'Open Sans'; text-anchor: start; fill: #323232" x="57.6" y="314.712" transform="rotate(-0 57.6 314.712)">Source: Lynas annual reports (2022–2026). Figures rounded to one decimal.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0a4a1911e2">
+   <rect x="57.6" y="81.216" width="640.8" height="182.736"/>
+  </clipPath>
+ </defs>
+</svg>

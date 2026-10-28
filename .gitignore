@@ -1,0 +1,5 @@
+research/*.pdf
+research/*.txt
+__pycache__/
+.openai/
+.DS_Store
