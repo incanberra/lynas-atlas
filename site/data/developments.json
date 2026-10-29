@@ -1,13 +1,134 @@
 [
-{"date":"2026-10-19","category":"Reporting","title":"September-quarter results are due next","status":"Scheduled","text":"The next quarterly report is scheduled for 29 October, with a 10am Sydney briefing. June 2026 remains the latest available quarter in this site’s 28 October snapshot.","source":"next"},
-{"date":"2026-10-14","category":"Reporting","title":"Annual meeting set for 25 November","status":"Scheduled","text":"The amended shareholder letter sets the AGM for 25 November 2026 at 10am AEDT, in Sydney and online.","source":"agm"},
-{"date":"2026-10-01","category":"Strategy","title":"Meteoric proposal would add Brazilian feedstock","status":"Proposed","text":"An all-scrip scheme proposes 0.0207 new Lynas shares per Meteoric share. The A$968m implied fully diluted equity value uses Lynas’ 60-day VWAP. Shareholder, court and regulatory conditions remain; implementation is expected by March 2027. Caldeira is not an operating Lynas asset.","source":"mei"},
-{"date":"2026-08-26","category":"Reporting","title":"FY26 revenue reaches A$977.9m","status":"Reported","text":"Revenue rose 75.7% from FY25. Cash and term deposits reached A$1,209.1m, supported by an equity raising as well as operational performance. Cash growth should not be read as operating cash flow alone.","source":"fy26"},
-{"date":"2026-07-27","category":"Strategy","title":"LS Eco Energy cross investment","status":"Conditional agreements","text":"Binding agreements cover approximately A$29m of convertible instruments each: zero interest, five-year maturity and holder conversion after three years. Conditions apply. A definitive Vietnam metal-processing agreement was still being negotiated.","source":"ls"},
-{"date":"2026-07-22","category":"Operations","title":"Heavy rare earth expansion cost estimate rises","status":"Company estimate","text":"The June-quarter report updates estimated HRE expansion capex from A$180m to A$294m including contingency. It targets gadolinium in early FY28 and yttrium in early calendar 2028. These are planned milestones.","source":"q426"},
-{"date":"2026-07-07","category":"Strategy","title":"JS Link plans a Malaysian magnet factory","status":"Partnership signed","text":"The agreement supports a planned 3,000tpa NdFeB magnet factory in Kuantan. Lynas invested approximately A$50m in JS Link equity and agreed exclusive rare-earth supply to Yesan and the planned Malaysian factory through January 2038.","source":"js"},
-{"date":"2026-06-23","category":"Regulation","title":"Updated EIA requested for Malaysia","status":"Resubmission required at release","text":"Malaysia’s Department of Environment requested an updated environmental impact assessment following technical review. The release said Lynas would resubmit. The operating licence and expansion approvals are separate issues.","source":"eia"},
-{"date":"2026-03-19","category":"Operations","title":"First samarium oxide produced","status":"Production milestone","text":"Lynas reported first Sm oxide production in Malaysia, extending its separated heavy rare earth product range. First production does not establish the timing or volume of commercial shipments.","source":"sm"},
-{"date":"2026-03-10","category":"Strategy","title":"JARE agreement adds a price floor","status":"Agreement announced","text":"Firm NdPr offtake is 5,000tpa with a US$110/kg floor. Above US$150/kg, 30% upside sharing is capped at US$10m per calendar year. Review provisions apply. This is not a floor on the entire REO sales basket.","source":"jare"},
-{"date":"2026-03-02","category":"Regulation","title":"Malaysia licence renewed for a decade","status":"Renewed","text":"The company reported a ten-year operating licence renewal commencing 3 March 2026. This provides operating tenure while separate approvals still matter for expansion projects.","source":"licence"}
+  {
+    "date": "2026-10-29",
+    "category": "Reporting",
+    "title": "September-quarter results released",
+    "status": "Reported · unaudited",
+    "text": "Gross sales reached A$310.1m. The five-quarter operating tables are now available in Financials, including NdPr and combined Dy/Tb output.",
+    "source": "q127"
+  },
+  {
+    "date": "2026-10-29",
+    "category": "Operations",
+    "title": "December-quarter shutdowns limit the near-term outlook",
+    "status": "Planned · company outlook",
+    "text": "Malaysia plans about one month offline; Kalgoorlie about two weeks for Western Power works. Lynas expects December output below September. Neither shutdown is assumed complete.",
+    "source": "q127"
+  },
+  {
+    "date": "2026-10-20",
+    "category": "Capital",
+    "title": "Capital Group reports 5.21% voting power",
+    "status": "Holder disclosure",
+    "text": "The Form 603 reports 52,413,683 votes as at 16 October. The disclosed shares are held in client accounts under discretionary management; they are not shares owned by Capital Group for its own account.",
+    "source": "holder"
+  },
+  {
+    "date": "2026-10-14",
+    "category": "Governance",
+    "title": "Grant Murdoch to retire after the AGM",
+    "status": "Announced · future retirement",
+    "text": "The non-executive director advised that he will retire at the conclusion of the 25 November 2026 AGM. The announced date has not yet been reached.",
+    "source": "retirement"
+  },
+  {
+    "date": "2026-10-14",
+    "category": "Governance",
+    "title": "Formal AGM notice and voting agenda published",
+    "status": "Resolutions proposed",
+    "text": "The 25 November notice sets out the meeting, proxy instructions and proposed resolutions, including director re-elections and the performance rights plan. The resolutions have not yet been voted on.",
+    "source": "agm-notice"
+  },
+  {
+    "date": "2026-10-14",
+    "category": "Reporting",
+    "title": "Annual meeting set for 25 November",
+    "status": "Scheduled",
+    "text": "The amended shareholder letter sets the AGM for 25 November 2026 at 10am AEDT, in Sydney and online.",
+    "source": "agm"
+  },
+  {
+    "date": "2026-10-01",
+    "category": "Capital",
+    "title": "Scheme consideration shares remain a proposed issue",
+    "status": "Proposed · conditional",
+    "text": "Appendix 3B lists up to 63,344,637 ordinary shares for the Meteoric acquisition, with an estimated issue date of 31 March 2027. The filing does not establish that the shares have been issued or the acquisition completed.",
+    "source": "scheme-securities"
+  },
+  {
+    "date": "2026-10-01",
+    "category": "Strategy",
+    "title": "Meteoric proposal would add Brazilian feedstock",
+    "status": "Proposed",
+    "text": "An all-scrip scheme proposes 0.0207 new Lynas shares per Meteoric share. The A$968m implied fully diluted equity value uses Lynas’ 60-day VWAP. Shareholder, court and regulatory conditions remain; implementation is expected by March 2027. Caldeira is not an operating Lynas asset. The September-quarter report says integration scoping has begun; approvals remain outstanding.",
+    "source": "mei",
+    "update_source": "q127",
+    "updated": "2026-10-29"
+  },
+  {
+    "date": "2026-08-26",
+    "category": "Reporting",
+    "title": "FY26 revenue reaches A$977.9m",
+    "status": "Reported",
+    "text": "Revenue rose 75.7% from FY25. Cash and term deposits reached A$1,209.1m, supported by an equity raising as well as operational performance. Cash growth should not be read as operating cash flow alone.",
+    "source": "fy26"
+  },
+  {
+    "date": "2026-07-27",
+    "category": "Strategy",
+    "title": "LS Eco Energy cross investment",
+    "status": "Instruments executed; plant planned",
+    "text": "The July agreements provided ~A$29m of convertible instruments each, at zero interest with five-year maturity and conversion from year three. The September report records execution and related cash movements; a definitive Vietnam metal-processing agreement remains under negotiation.",
+    "source": "ls",
+    "update_source": "q127",
+    "updated": "2026-10-29"
+  },
+  {
+    "date": "2026-07-22",
+    "category": "Operations",
+    "title": "Heavy rare earth expansion cost estimate rises",
+    "status": "Company estimate",
+    "text": "The June-quarter report updates estimated HRE expansion capex from A$180m to A$294m including contingency. It targets gadolinium in early FY28 and yttrium in early calendar 2028. These are planned milestones.",
+    "source": "q426"
+  },
+  {
+    "date": "2026-07-07",
+    "category": "Strategy",
+    "title": "JS Link plans a Malaysian magnet factory",
+    "status": "Partnership signed",
+    "text": "The agreement supports a planned 3,000tpa NdFeB magnet factory in Kuantan. Lynas invested approximately A$50m in JS Link equity and agreed exclusive rare-earth supply to Yesan and the planned Malaysian factory through January 2038.",
+    "source": "js"
+  },
+  {
+    "date": "2026-06-23",
+    "category": "Regulation",
+    "title": "Updated EIA requested for Malaysia",
+    "status": "Resubmission required at release",
+    "text": "Malaysia’s Department of Environment requested an updated environmental impact assessment following technical review. The release said Lynas would resubmit. The operating licence and expansion approvals are separate issues.",
+    "source": "eia"
+  },
+  {
+    "date": "2026-03-19",
+    "category": "Operations",
+    "title": "First samarium oxide produced",
+    "status": "Production milestone",
+    "text": "Lynas reported first Sm oxide production in Malaysia, extending its separated heavy rare earth product range. First production does not establish the timing or volume of commercial shipments.",
+    "source": "sm"
+  },
+  {
+    "date": "2026-03-10",
+    "category": "Strategy",
+    "title": "JARE agreement adds a price floor",
+    "status": "Agreement announced",
+    "text": "Firm NdPr offtake is 5,000tpa with a US$110/kg floor. Above US$150/kg, 30% upside sharing is capped at US$10m per calendar year. Review provisions apply. This is not a floor on the entire REO sales basket.",
+    "source": "jare"
+  },
+  {
+    "date": "2026-03-02",
+    "category": "Regulation",
+    "title": "Malaysia licence renewed for a decade",
+    "status": "Renewed",
+    "text": "The company reported a ten-year operating licence renewal commencing 3 March 2026. This provides operating tenure while separate approvals still matter for expansion projects.",
+    "source": "licence"
+  }
 ]

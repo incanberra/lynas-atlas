@@ -1,5 +1,6 @@
-period,reo_sales,gross_sales,basket_asp,reo_production,ndpr_production
-Sep 2025,3691,200.2,54.3,3993,2003
-Dec 2025,2359,201.9,85.6,2382,1404
-Mar 2026,3131,265,84.6,3233,1996
-Jun 2026,2941,288.9,98.2,3481,1857
+period,period_end,fiscal_year,fiscal_quarter,reo_sales,gross_sales,basket_asp,reo_production,ndpr_production,dy_tb_production,sales_receipts,source_id
+Sep 2025,2025-09-30,2026,1,3691,200.2,54.3,3993,2003,9,171.3,q127
+Dec 2025,2025-12-31,2026,2,2359,201.9,85.6,2382,1404,26,185,q127
+Mar 2026,2026-03-31,2026,3,3131,265,84.6,3233,1996,8,233,q127
+Jun 2026,2026-06-30,2026,4,2941,288.9,98.2,3481,1857,19,297.1,q127
+Sep 2026,2026-09-30,2027,1,3039,310.1,102.1,4254,2082,23,266.6,q127

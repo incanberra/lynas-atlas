@@ -1,34 +1,72 @@
 [
   {
     "period": "Sep 2025",
+    "period_end": "2025-09-30",
+    "fiscal_year": 2026,
+    "fiscal_quarter": 1,
     "reo_sales": 3691,
     "gross_sales": 200.2,
     "basket_asp": 54.3,
     "reo_production": 3993,
-    "ndpr_production": 2003
+    "ndpr_production": 2003,
+    "dy_tb_production": 9,
+    "sales_receipts": 171.3,
+    "source_id": "q127"
   },
   {
     "period": "Dec 2025",
+    "period_end": "2025-12-31",
+    "fiscal_year": 2026,
+    "fiscal_quarter": 2,
     "reo_sales": 2359,
     "gross_sales": 201.9,
     "basket_asp": 85.6,
     "reo_production": 2382,
-    "ndpr_production": 1404
+    "ndpr_production": 1404,
+    "dy_tb_production": 26,
+    "sales_receipts": 185.0,
+    "source_id": "q127"
   },
   {
     "period": "Mar 2026",
+    "period_end": "2026-03-31",
+    "fiscal_year": 2026,
+    "fiscal_quarter": 3,
     "reo_sales": 3131,
-    "gross_sales": 265,
+    "gross_sales": 265.0,
     "basket_asp": 84.6,
     "reo_production": 3233,
-    "ndpr_production": 1996
+    "ndpr_production": 1996,
+    "dy_tb_production": 8,
+    "sales_receipts": 233.0,
+    "source_id": "q127"
   },
   {
     "period": "Jun 2026",
+    "period_end": "2026-06-30",
+    "fiscal_year": 2026,
+    "fiscal_quarter": 4,
     "reo_sales": 2941,
     "gross_sales": 288.9,
     "basket_asp": 98.2,
     "reo_production": 3481,
-    "ndpr_production": 1857
+    "ndpr_production": 1857,
+    "dy_tb_production": 19,
+    "sales_receipts": 297.1,
+    "source_id": "q127"
+  },
+  {
+    "period": "Sep 2026",
+    "period_end": "2026-09-30",
+    "fiscal_year": 2027,
+    "fiscal_quarter": 1,
+    "reo_sales": 3039,
+    "gross_sales": 310.1,
+    "basket_asp": 102.1,
+    "reo_production": 4254,
+    "ndpr_production": 2082,
+    "dy_tb_production": 23,
+    "sales_receipts": 266.6,
+    "source_id": "q127"
   }
 ]

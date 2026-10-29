@@ -1,0 +1,58 @@
+{
+  "context": {
+    "snapshot_date": "2026-10-29",
+    "release_date": "2026-10-29",
+    "source_id": "q127",
+    "period_end": "2026-09-30",
+    "closing_cash_and_short_term_deposits": 1212.5,
+    "capex_exploration_development_payments": 28.7,
+    "prior_closing_cash_and_short_term_deposits": 1209.1,
+    "finance_units": "A$ million; unaudited; report p 7",
+    "maintenance_outlook": "December quarter: Malaysia approximately one month offline; Kalgoorlie approximately two weeks. Company outlook, not completed work. Report p 6.",
+    "annual_model_anchor": "FY2026 reported cost of sales and sales volume; the quarter does not report a replacement annual cost baseline."
+  },
+  "latest": {
+    "period": "Sep 2026",
+    "period_end": "2026-09-30",
+    "fiscal_year": 2027,
+    "fiscal_quarter": 1,
+    "reo_sales": 3039,
+    "gross_sales": 310.1,
+    "basket_asp": 102.1,
+    "reo_production": 4254,
+    "ndpr_production": 2082,
+    "dy_tb_production": 23,
+    "sales_receipts": 266.6,
+    "source_id": "q127"
+  },
+  "changes": {
+    "gross_sales": {
+      "qoq_pct": 7.338179300796144,
+      "yoy_pct": 54.89510489510492
+    },
+    "basket_asp": {
+      "qoq_pct": 3.9714867617107963,
+      "yoy_pct": 88.02946593001842
+    },
+    "reo_sales": {
+      "qoq_pct": 3.332199931995916,
+      "yoy_pct": -17.664589542129505
+    },
+    "reo_production": {
+      "qoq_pct": 22.20626256822753,
+      "yoy_pct": 6.536438767843733
+    },
+    "ndpr_production": {
+      "qoq_pct": 12.116316639741509,
+      "yoy_pct": 3.9440838741887196
+    },
+    "dy_tb_production": {
+      "qoq_pct": 21.052631578947366,
+      "yoy_pct": 155.55555555555554
+    },
+    "sales_receipts": {
+      "qoq_pct": -10.265903736115789,
+      "yoy_pct": 55.6333917104495
+    }
+  }
+}

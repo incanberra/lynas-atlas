@@ -19,6 +19,7 @@ jobs:
         with:
           node-version: '22'
       - run: node scripts/test_model.cjs
+      - run: node scripts/test_data.cjs
       - run: node --check site/app.js
       - run: node --check site/model.js
   deploy:

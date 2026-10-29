@@ -1,20 +1,209 @@
 [
-{"id":"ar26","title":"FY2026 Annual Report & Appendix 4E","date":"2026-08-26","type":"Annual report","url":"https://wcsecure.weblink.com.au/pdf/LYC/03126303.pdf","locator":"Printed pp 1–7, 12–18, 65, 86–89 and Note A.1; PDF pages are printed page + 3","use":"FY26 results, five-year trend, operations, cost baseline and financial definitions. Annual figures use A$m unless stated."},
-{"id":"ar25","title":"FY2025 Annual Report & Appendix 4E","date":"2025-08-28","type":"Annual report","url":"https://wcsecure.weblink.com.au/pdf/LYC/02985262.pdf","locator":"Directors’ Report: financial and operational performance; Note A.1 and cash flow statement","use":"FY24–25 EBITDA and operating cash flow; historical cost of sales and product volumes."},
-{"id":"ar24","title":"FY2024 Annual Report","date":"2024-10-11","type":"Annual report","url":"https://wcsecure.weblink.com.au/pdf/LYC/02865113.pdf","locator":"Directors’ Report: financial and operational performance; Note A.1","use":"FY24 comparison and validation of historical series."},
-{"id":"ar23","title":"FY2023 Annual Report","date":"2023-10-12","type":"Annual report","url":"https://wcsecure.weblink.com.au/pdf/LYC/02724575.pdf","locator":"Directors’ Report: FY23 performance and production; Note A.1; cash flow statement","use":"FY22–23 EBITDA, NdPr output, operating cash flow and cost of sales."},
-{"id":"ar22","title":"FY2022 Annual Report","date":"2022-10-12","type":"Annual report","url":"https://wcsecure.weblink.com.au/pdf/LYC/02581455.pdf","locator":"Directors’ Report: financial results; consolidated cash flow statement","use":"FY22 comparison, cost of sales and operating cash flow."},
-{"id":"q426","title":"June 2026 Quarterly Activities Report","date":"2026-07-22","type":"Quarterly report","url":"https://newswire.iguana2.com/2fee0049d633f441/announcements/lyc.asx/6A1334860/LYC_Quarterly_Activities_Report.pdf","locator":"pp 1–5; quarterly tables pp 3–4","use":"FY26 quarterly operating series; gross sales are unaudited and exclude quotational adjustments. HRE expansion estimate and schedule."},
-{"id":"fy26","title":"FY2026 Results Announcement","date":"2026-08-26","type":"Announcement","url":"https://wcsecure.weblink.com.au/pdf/LYC/03126367.pdf","locator":"pp 1–4","use":"Results summary and equity raising context."},
-{"id":"mei","title":"Proposed acquisition of Meteoric Resources — presentation","date":"2026-10-01","type":"Strategy","url":"https://announcements.asx.com.au/asxpdf/20261001/pdf/074sthssqkhfm1.pdf","locator":"Slides 5–6: transaction terms, conditions and Caldeira project forecasts","use":"Proposed scheme; A$968m implied equity value based on 60-day VWAP; project forecasts are company estimates."},
-{"id":"mei-full","title":"Lynas to acquire Meteoric Resources — full announcement","date":"2026-10-01","type":"Strategy","url":"https://wcsecure.weblink.com.au/pdf/LYC/03142910.pdf","locator":"pp 1–5; scheme conditions and indicative timetable","use":"Conditional transaction terms and expected implementation by March 2027."},
-{"id":"ls","title":"LS Eco Energy convertible cross subscription","date":"2026-07-27","type":"Strategy","url":"https://wcsecure.weblink.com.au/pdf/LYC/03114179.pdf","locator":"pp 1–2","use":"~A$29m each, zero interest, five-year maturity; conversion after three years; conditions apply."},
-{"id":"js","title":"JS Link partnership for Malaysian magnet factory","date":"2026-07-07","type":"Strategy","url":"https://wcsecure.weblink.com.au/pdf/LYC/03108378.pdf","locator":"pp 1–2","use":"Planned 3,000tpa magnet factory, Lynas ~A$50m investment and exclusive rare-earth supply arrangement."},
-{"id":"eia","title":"Malaysian EIA process","date":"2026-06-23","type":"Regulation","url":"https://wcsecure.weblink.com.au/pdf/LYC/03102762.pdf","locator":"p 1","use":"Updated environmental impact assessment requested following technical review; resubmission required at that date."},
-{"id":"sm","title":"First production of samarium oxide","date":"2026-03-19","type":"Operations","url":"https://wcsecure.weblink.com.au/pdf/LYC/03069968.pdf","locator":"p 1","use":"First Sm oxide production; product qualification differs from commercial shipments."},
-{"id":"jare","title":"Enhanced JARE agreement for Japanese industry","date":"2026-03-10","type":"Strategy","url":"https://wcsecure.weblink.com.au/pdf/LYC/03066669.pdf","locator":"pp 1–2","use":"5,000tpa firm NdPr offtake, US$110/kg floor, upside sharing and review provisions."},
-{"id":"licence","title":"Malaysia operating licence renewed for 10 years","date":"2026-03-02","type":"Regulation","url":"https://newswire.iguana2.com/2fee0049d633f441/announcements/lyc.asx/6A1314362/LYC_Lynas_Malaysia_operating_licence_renewed_for_10_years.pdf","locator":"p 1","use":"Ten-year renewal commencing 3 March 2026; does not establish approval for all future expansions."},
-{"id":"next","title":"Date for September quarterly report and briefing","date":"2026-10-19","type":"Announcement","url":"https://wcsecure.weblink.com.au/pdf/LYC/03149663.pdf","locator":"p 1","use":"Release scheduled 29 October 2026; briefing 10am Sydney. No September-quarter results included here."},
-{"id":"agm","title":"Letter to shareholders — 2026 AGM (amended)","date":"2026-10-14","type":"Announcement","url":"https://wcsecure.weblink.com.au/pdf/LYC/03148443.pdf","locator":"p 2","use":"AGM scheduled 25 November 2026, 10am AEDT, Sydney and online."},
-{"id":"map","title":"Natural Earth — 1:110m country boundaries","date":"2026-10-28","type":"Method","url":"https://www.naturalearthdata.com/about/terms-of-use/","locator":"Public-domain dataset; ne_110m_admin_0_countries","use":"Python-generated map. Facility markers approximate locations for orientation, not surveying; connections are schematic."}
+  {
+    "id": "q127",
+    "title": "September 2026 Quarterly Activities Report (Q1 FY27)",
+    "date": "2026-10-29",
+    "type": "Quarterly report",
+    "url": "https://wcsecure.weblink.com.au/pdf/LYC/03154748.pdf",
+    "locator": "p 5: five-quarter sales table; p 6: output and planned shutdowns; p 7: cash and HRE works; pp 2–3: partnerships and Meteoric",
+    "use": "Latest unaudited quarter; production and sales series, December maintenance outlook and growth-project status."
+  },
+  {
+    "id": "map",
+    "title": "Natural Earth — 1:110m country boundaries",
+    "date": "2026-10-28",
+    "type": "Method",
+    "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+    "locator": "Public-domain dataset; ne_110m_admin_0_countries",
+    "use": "Python-generated map. Facility markers approximate locations for orientation, not surveying; connections are schematic."
+  },
+  {
+    "id": "holder",
+    "title": "Becoming a substantial holder — Capital Group",
+    "date": "2026-10-20",
+    "type": "Capital",
+    "url": "https://wcsecure.weblink.com.au/pdf/LYC/03150247.pdf",
+    "locator": "p 1, Form 603 sections 1–2",
+    "use": "52,413,683 votes, 5.21% voting power as at 16 October 2026; shares managed for client accounts, not CGC’s own account."
+  },
+  {
+    "id": "next",
+    "title": "Date for September quarterly report and briefing",
+    "date": "2026-10-19",
+    "type": "Announcement",
+    "url": "https://wcsecure.weblink.com.au/pdf/LYC/03149663.pdf",
+    "locator": "p 1",
+    "use": "Historical scheduling notice. The September-quarter report was subsequently released on 29 October 2026; use q127 for the results."
+  },
+  {
+    "id": "retirement",
+    "title": "Retirement of Non-Executive Director",
+    "date": "2026-10-14",
+    "type": "Governance",
+    "url": "https://wcsecure.weblink.com.au/pdf/LYC/03148420.pdf",
+    "locator": "p 1",
+    "use": "Grant Murdoch intends to retire at the conclusion of the 25 November 2026 AGM; he has not yet retired at this snapshot."
+  },
+  {
+    "id": "agm-notice",
+    "title": "2026 Notice of Annual General Meeting / Proxy Form",
+    "date": "2026-10-14",
+    "type": "Governance",
+    "url": "https://wcsecure.weblink.com.au/pdf/LYC/03148429.pdf",
+    "locator": "pp 1–3: meeting and first resolutions; remaining notice: full agenda and voting instructions",
+    "use": "Formal meeting notice and proposed resolutions. Shareholder resolutions remain subject to the meeting vote."
+  },
+  {
+    "id": "agm",
+    "title": "Letter to shareholders — 2026 AGM (amended)",
+    "date": "2026-10-14",
+    "type": "Announcement",
+    "url": "https://wcsecure.weblink.com.au/pdf/LYC/03148443.pdf",
+    "locator": "p 2",
+    "use": "AGM scheduled 25 November 2026, 10am AEDT, Sydney and online."
+  },
+  {
+    "id": "scheme-securities",
+    "title": "Proposed issue of securities — Meteoric scheme",
+    "date": "2026-10-01",
+    "type": "Capital",
+    "url": "https://wcsecure.weblink.com.au/pdf/LYC/03142912.pdf",
+    "locator": "Appendix 3B pp 1, 3–4",
+    "use": "Up to 63,344,637 ordinary shares proposed; estimated 31 March 2027 issue date; scheme conditions apply. This is not an issue-completion notice."
+  },
+  {
+    "id": "mei",
+    "title": "Proposed acquisition of Meteoric Resources — presentation",
+    "date": "2026-10-01",
+    "type": "Strategy",
+    "url": "https://announcements.asx.com.au/asxpdf/20261001/pdf/074sthssqkhfm1.pdf",
+    "locator": "Slides 5–6: transaction terms, conditions and Caldeira project forecasts",
+    "use": "Proposed scheme; A$968m implied equity value based on 60-day VWAP; project forecasts are company estimates."
+  },
+  {
+    "id": "mei-full",
+    "title": "Lynas to acquire Meteoric Resources — full announcement",
+    "date": "2026-10-01",
+    "type": "Strategy",
+    "url": "https://wcsecure.weblink.com.au/pdf/LYC/03142910.pdf",
+    "locator": "pp 1–5; scheme conditions and indicative timetable",
+    "use": "Conditional transaction terms and expected implementation by March 2027."
+  },
+  {
+    "id": "ar26",
+    "title": "FY2026 Annual Report & Appendix 4E",
+    "date": "2026-08-26",
+    "type": "Annual report",
+    "url": "https://wcsecure.weblink.com.au/pdf/LYC/03126303.pdf",
+    "locator": "Printed pp 1–7, 12–18, 65, 86–89 and Note A.1; PDF pages are printed page + 3",
+    "use": "FY26 results, five-year trend, operations, cost baseline and financial definitions. Annual figures use A$m unless stated."
+  },
+  {
+    "id": "fy26",
+    "title": "FY2026 Results Announcement",
+    "date": "2026-08-26",
+    "type": "Announcement",
+    "url": "https://wcsecure.weblink.com.au/pdf/LYC/03126367.pdf",
+    "locator": "pp 1–4",
+    "use": "Results summary and equity raising context."
+  },
+  {
+    "id": "ls",
+    "title": "LS Eco Energy convertible cross subscription",
+    "date": "2026-07-27",
+    "type": "Strategy",
+    "url": "https://wcsecure.weblink.com.au/pdf/LYC/03114179.pdf",
+    "locator": "pp 1–2",
+    "use": "~A$29m each, zero interest, five-year maturity; conversion after three years; conditions apply."
+  },
+  {
+    "id": "q426",
+    "title": "June 2026 Quarterly Activities Report",
+    "date": "2026-07-22",
+    "type": "Quarterly report",
+    "url": "https://newswire.iguana2.com/2fee0049d633f441/announcements/lyc.asx/6A1334860/LYC_Quarterly_Activities_Report.pdf",
+    "locator": "pp 1–5; quarterly tables pp 3–4",
+    "use": "FY26 quarterly operating series; gross sales are unaudited and exclude quotational adjustments. HRE expansion estimate and schedule."
+  },
+  {
+    "id": "js",
+    "title": "JS Link partnership for Malaysian magnet factory",
+    "date": "2026-07-07",
+    "type": "Strategy",
+    "url": "https://wcsecure.weblink.com.au/pdf/LYC/03108378.pdf",
+    "locator": "pp 1–2",
+    "use": "Planned 3,000tpa magnet factory, Lynas ~A$50m investment and exclusive rare-earth supply arrangement."
+  },
+  {
+    "id": "eia",
+    "title": "Malaysian EIA process",
+    "date": "2026-06-23",
+    "type": "Regulation",
+    "url": "https://wcsecure.weblink.com.au/pdf/LYC/03102762.pdf",
+    "locator": "p 1",
+    "use": "Updated environmental impact assessment requested following technical review; resubmission required at that date."
+  },
+  {
+    "id": "sm",
+    "title": "First production of samarium oxide",
+    "date": "2026-03-19",
+    "type": "Operations",
+    "url": "https://wcsecure.weblink.com.au/pdf/LYC/03069968.pdf",
+    "locator": "p 1",
+    "use": "First Sm oxide production; product qualification differs from commercial shipments."
+  },
+  {
+    "id": "jare",
+    "title": "Enhanced JARE agreement for Japanese industry",
+    "date": "2026-03-10",
+    "type": "Strategy",
+    "url": "https://wcsecure.weblink.com.au/pdf/LYC/03066669.pdf",
+    "locator": "pp 1–2",
+    "use": "5,000tpa firm NdPr offtake, US$110/kg floor, upside sharing and review provisions."
+  },
+  {
+    "id": "licence",
+    "title": "Malaysia operating licence renewed for 10 years",
+    "date": "2026-03-02",
+    "type": "Regulation",
+    "url": "https://newswire.iguana2.com/2fee0049d633f441/announcements/lyc.asx/6A1314362/LYC_Lynas_Malaysia_operating_licence_renewed_for_10_years.pdf",
+    "locator": "p 1",
+    "use": "Ten-year renewal commencing 3 March 2026; does not establish approval for all future expansions."
+  },
+  {
+    "id": "ar25",
+    "title": "FY2025 Annual Report & Appendix 4E",
+    "date": "2025-08-28",
+    "type": "Annual report",
+    "url": "https://wcsecure.weblink.com.au/pdf/LYC/02985262.pdf",
+    "locator": "Directors’ Report: financial and operational performance; Note A.1 and cash flow statement",
+    "use": "FY24–25 EBITDA and operating cash flow; historical cost of sales and product volumes."
+  },
+  {
+    "id": "ar24",
+    "title": "FY2024 Annual Report",
+    "date": "2024-10-11",
+    "type": "Annual report",
+    "url": "https://wcsecure.weblink.com.au/pdf/LYC/02865113.pdf",
+    "locator": "Directors’ Report: financial and operational performance; Note A.1",
+    "use": "FY24 comparison and validation of historical series."
+  },
+  {
+    "id": "ar23",
+    "title": "FY2023 Annual Report",
+    "date": "2023-10-12",
+    "type": "Annual report",
+    "url": "https://wcsecure.weblink.com.au/pdf/LYC/02724575.pdf",
+    "locator": "Directors’ Report: FY23 performance and production; Note A.1; cash flow statement",
+    "use": "FY22–23 EBITDA, NdPr output, operating cash flow and cost of sales."
+  },
+  {
+    "id": "ar22",
+    "title": "FY2022 Annual Report",
+    "date": "2022-10-12",
+    "type": "Annual report",
+    "url": "https://wcsecure.weblink.com.au/pdf/LYC/02581455.pdf",
+    "locator": "Directors’ Report: financial results; consolidated cash flow statement",
+    "use": "FY22 comparison, cost of sales and operating cash flow."
+  }
 ]

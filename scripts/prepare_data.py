@@ -2,7 +2,7 @@
 Requires matplotlib only. Values are manually transcribed; no live market feed.
 """
 from pathlib import Path
-import csv,json,math
+import csv,json,math,sys
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
@@ -19,10 +19,37 @@ for r in rows:
  assert abs(r['reo_sales']*r['basket_asp']/1000-r['revenue'])<2
 (SITE/'data/annual.json').write_text(json.dumps(rows,indent=2)+'\n')
 (SITE/'data/annual.csv').write_text((ROOT/'research/annual.csv').read_text())
-q=[{'period':p,'reo_sales':s,'gross_sales':g,'basket_asp':a,'reo_production':r,'ndpr_production':n} for p,s,g,a,r,n in zip(['Sep 2025','Dec 2025','Mar 2026','Jun 2026'],[3691,2359,3131,2941],[200.2,201.9,265,288.9],[54.3,85.6,84.6,98.2],[3993,2382,3233,3481],[2003,1404,1996,1857])]
+# All five quarters are transcribed from the September report, pp 5–6.
+q=list(csv.DictReader((ROOT/'research/quarterly.csv').open()))
+for row in q:
+ for k,v in row.items():
+  if k not in ('period','period_end','source_id'):
+   row[k]=float(v) if k in ('gross_sales','basket_asp','sales_receipts') else int(v)
+ assert row['ndpr_production']<=row['reo_production']
+ assert row['dy_tb_production']<=row['reo_production']
+ assert abs(row['reo_sales']*row['basket_asp']/1000-row['gross_sales'])<.5
 (D/'quarterly.json').write_text(json.dumps(q,indent=2)+'\n')
-with (D/'quarterly.csv').open('w') as f:
- w=csv.DictWriter(f,fieldnames=q[0]);w.writeheader();w.writerows(q)
+(D/'quarterly.csv').write_bytes((ROOT/'research/quarterly.csv').read_bytes())
+context=json.loads((ROOT/'research/quarterly-context.json').read_text())
+assert context['period_end']==q[-1]['period_end']
+latest=q[-1]; prior=q[-2]; year_ago=q[-5]
+changes={k:{'qoq_pct':(latest[k]/prior[k]-1)*100,'yoy_pct':(latest[k]/year_ago[k]-1)*100} for k in ('gross_sales','basket_asp','reo_sales','reo_production','ndpr_production','dy_tb_production','sales_receipts')}
+(D/'latest-summary.json').write_text(json.dumps({'context':context,'latest':latest,'changes':changes},indent=2)+'\n')
+# Export a chart in two panels so dollars and tonnes keep separate scales.
+fig,axes=plt.subplots(1,2,figsize=(11,4.6));fig.subplots_adjust(left=.07,right=.98,top=.72,bottom=.24,wspace=.3)
+for ax,key,title,unit in zip(axes,['gross_sales','ndpr_production'],['Gross sales revenue','NdPr production'],['A$ million · unaudited','tonnes · ready for sale']):
+ vals=[r[key] for r in q];ax.bar(range(len(q)),vals,color=['#A3926E']*4+['#003E46'],width=.55)
+ ax.set_xticks(range(len(q)),[r['period'].replace(' ','\n') for r in q],fontsize=9)
+ ax.set_ylim(0,max(vals)*1.22);ax.grid(axis='y',color='#D6D6D6',linewidth=.6);ax.set_axisbelow(True);ax.tick_params(length=0,pad=9)
+ ax.set_title(title+'\n'+unit,loc='left',fontsize=11,pad=14)
+ for i,v in enumerate(vals):ax.text(i,v+max(vals)*.035,f'{v:,.1f}' if key=='gross_sales' else f'{v:,.0f}',ha='center',fontsize=9)
+fig.text(.07,.94,'September sales and NdPr output both increased',fontsize=19,fontweight='bold')
+fig.text(.07,.07,'Source: Lynas September 2026 quarterly report (29 October), pp 5–6. Gross sales exclude quotational adjustments.',fontsize=8.5)
+with matplotlib.rc_context({'svg.fonttype':'path','svg.hashsalt':'lynas-quarterly-20261029'}):
+ fig.savefig(A/'quarterly-update.svg',metadata={'Date':context['snapshot_date']})
+plt.close(fig)
+if '--quarterly-only' in sys.argv:
+ print(f'Prepared {len(q)} quarters, latest comparison and quarterly chart.');sys.exit(0)
 # Original static comparison for downloading and no-JavaScript reading.
 fig,ax=plt.subplots(figsize=(10,4.7));fig.subplots_adjust(left=.08,right=.97,top=.76,bottom=.22)
 y=[r['revenue'] for r in rows];ax.bar([str(r['year']) for r in rows],y,color=['#A3926E']*4+['#003E46'],width=.52)
